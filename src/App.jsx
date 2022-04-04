@@ -9,10 +9,10 @@ const App = () => {
       >
         <div className="flex flex-col items-center">
           <div className="text-center">
-            <h1 className="text-[2.1rem] tracking-tighter font-bold leading-[30px] text-[#501F50]">
+            <h1 className="text-[2.1rem] tracking-tighter font-bold leading-[33px] text-[#501F50]">
               10,000+ of our users love our products.
             </h1>
-            <p className="text-[15px] mt-7 leading-[25px] tracking-tight">
+            <p className="text-[15px] mt-[1.2rem] leading-[25px] tracking-tight">
               We only provide great products combined with excellent customer
               service. See what our satisfied customers are saying about our
               services.
