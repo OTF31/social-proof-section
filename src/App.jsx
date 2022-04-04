@@ -5,7 +5,7 @@ const App = () => {
     <>
       <div
         role="application"
-        className="min-h-screen flex flex-col items-center"
+        className="min-h-screen flex flex-col items-center font-[Spartan]"
       >
         <div className="flex flex-col">
           <div className="text-center">
