@@ -4,7 +4,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ---
 
-[See in GitHub Pages](https://denisomarcuyottito.github.io/social-proof-section/)
+[See in GitHub Pages](https://OTF31.github.io/social-proof-section/)
 
 ![image](https://user-images.githubusercontent.com/75378049/162020111-c309d7d3-945d-4119-865b-b23c29c77a72.png)
 
